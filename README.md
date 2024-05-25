@@ -16,8 +16,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/VikParuchuri/surya/blob/master/static/images/excerpt.png"><img src="/VikParuchuri/surya/raw/master/static/images/excerpt.png" alt="纽约时报文章检测" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/VikParuchuri/surya/blob/master/static/images/excerpt_text.png"><img src="/VikParuchuri/surya/raw/master/static/images/excerpt_text.png" alt="《纽约时报》文章识别" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/VikParuchuri/surya/blob/master/static/images/excerpt.png"><img src="https://github.com/VikParuchuri/surya/raw/master/static/images/excerpt.png" alt="纽约时报文章检测" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/VikParuchuri/surya/blob/master/static/images/excerpt_text.png"><img src="https://github.com/VikParuchuri/surya/raw/master/static/images/excerpt_text.png" alt="《纽约时报》文章识别" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -30,8 +30,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/VikParuchuri/surya/blob/master/static/images/excerpt_layout.png"><img src="/VikParuchuri/surya/raw/master/static/images/excerpt_layout.png" alt="纽约时报文章布局" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/VikParuchuri/surya/blob/master/static/images/excerpt_reading.jpg"><img src="/VikParuchuri/surya/raw/master/static/images/excerpt_reading.jpg" alt="纽约时报文章阅读顺序" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/VikParuchuri/surya/blob/master/static/images/excerpt_layout.png"><img src="https://github.com/VikParuchuri/surya/raw/master/static/images/excerpt_layout.png" alt="纽约时报文章布局" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/VikParuchuri/surya/blob/master/static/images/excerpt_reading.jpg"><img src="https://github.com/VikParuchuri/surya/raw/master/static/images/excerpt_reading.jpg" alt="纽约时报文章阅读顺序" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
